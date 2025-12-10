@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkmy_website=globalThis.webpackChunkmy_website||[]).push([[8424],{2267:e=>{e.exports=JSON.parse('{"name":"docusaurus-theme-search-typesense","id":"default"}')}}]);
